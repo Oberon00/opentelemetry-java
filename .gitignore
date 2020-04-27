@@ -11,6 +11,8 @@ target
 .idea
 *.iml
 .editorconfig
+*.ipr
+*.iws
 
 # Eclipse
 .classpath
